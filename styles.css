@@ -1,0 +1,17 @@
+* {
+background-color: black;
+color: white;
+}
+h1 {
+    color: aqua;
+}
+.A {
+    background-color: yellow;
+    color: red;
+}
+#B {
+    background-color: purple;
+}
+.C {
+    background-color: green;
+}
